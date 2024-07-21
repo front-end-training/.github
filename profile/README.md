@@ -50,12 +50,12 @@
 #### Day 4: ES6+ Features
 ###### - Destructuring, template literals
 ###### - Modules and import/export
-#### Day 5 → 10: Core concepts of JavaScript and how JS works behind the scenes inside the JavaScript engine.  REF
+#### Day 5 → 10: Core concepts of JavaScript and how JS works behind the scenes inside the JavaScript engine.  [REF](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNPhttp:// "REF")
 
 
 #### Day 11: JavaScript exercise
 ## Month 2
-### Week 1: Typescript DOC
+### Week 1: Typescript [DOC](https://www.typescriptlang.org/docs/handbook/intro.html:// "DOC")
 #### Day 1: Introduction to TypeScript
 ###### - Understand what TypeScript is and its benefits.
 ###### - Set up your development environment.
@@ -71,7 +71,7 @@
 #### Day 4-5: Generics and Utility Types:
 ###### - Understand generics and their use cases
 ###### - .Learn about built-in utility types like Partial, Pick, Omit, and Record.
-### Week 2: Basics of React REF 
+### Week 2: Basics of React [REF](https://www.youtube.com/watch?v=cd3P3yXyx30&amp;t=364s&amp;pp=ygUKTUVUQSBSZWFjdA%3D%3D "REF") 
 #### Day 1: Introduction to React
 ###### - Understand what React is and why it's used.
 ###### - Learn about the React ecosystem and its key features.
